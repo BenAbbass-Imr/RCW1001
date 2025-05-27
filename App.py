@@ -6,7 +6,7 @@
 
 
 
-
+# test python
 mylist = [1,3,5,7,9,11]
 
 i,j = 0 , len(mylist)-1
